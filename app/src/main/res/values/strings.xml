@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManagerRefact</string>
+    <string name="download_notification_content_text">Downloading...</string>
+    <string name="download_notification_content_title">Download in progress</string>
+</resources>
